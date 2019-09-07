@@ -25,9 +25,9 @@ $(call inherit-product, vendor/omni/config/common.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := RMX1851
 PRODUCT_NAME := omni_RMX1851
-PRODUCT_BRAND := Oppo
+PRODUCT_BRAND := Realme
 PRODUCT_MODEL := RMX1851
-PRODUCT_MANUFACTURER := Oppo
+PRODUCT_MANUFACTURER := Realme
 
 # HACK: Set vendor patch level
 PRODUCT_PROPERTY_OVERRIDES += \

@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/oppo/RMX1851
+DEVICE_PATH := device/realme/RMX1851
 
 # Architecture
 TARGET_ARCH := arm64
